@@ -10,6 +10,13 @@ BASIC CODE (COMMON)
 root.render(<App />);
 
 import React, { useState,useEffect} from "react";
+---------------------------------------------------------------------------------------------------------------
+// function Helloworld(){
+//     return <h1>helloworld</h1>;
+// }
+// function Greeting() {
+//   return React.createElement("h2", {}, "Welcome");// this is how react takes jsx inside
+// }
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 import React, { useState,useEffect} from "react";
